@@ -5,10 +5,15 @@ Welcome to the Discord Proof Generator Bot, a handy tool that generates fake pro
 ## Features ✨
 
 ✅ **Fake Nitro Proofs:** Generate fake proofs for Discord Nitro Classic and Nitro Booster subscriptions.
+
 ✅ **Realistic Design:** Create proofs with authentic-looking visuals, including subscription duration, payment methods, and activation dates.
+
 ✅ **Customization Options:** Customize various aspects of the proof, such as username, avatar, subscription type, and duration.
+
 ✅ **Instant Generation:** Generate proofs quickly and easily with simple commands.
+
 ✅ **Prank Your Friends:** Use the bot to prank your friends or joke around with your Discord community.
+
 ✅ **Easy Integration:** Seamlessly integrate the bot into your Discord server with straightforward setup instructions.
 
 ![Nitro Example](images/1.PNG)
